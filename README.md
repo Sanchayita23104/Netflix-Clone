@@ -4,8 +4,6 @@ This project is a simple Netflix website clone created using HTML, CSS, and Java
 
 ![image](https://github.com/user-attachments/assets/c79025eb-3614-44ed-afe3-ef645cbf6ba8)
 
-![image](https://github.com/user-attachments/assets/2bb0c014-2b6e-4f3a-ae81-622254a7abfd)
-
 ![image](https://github.com/user-attachments/assets/10404d9c-d474-4772-bee1-aaed520c8049)
 
 
